@@ -1,0 +1,24 @@
+/* Container */
+.Container {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.dash1 {
+    display: flex;
+    width: 60%;
+    height: 40%;
+    border: 2px;
+}
+.dash2 {
+    display: flex;
+    width: 60%;
+    height: 40%;
+    border: 2px;
+}
+
+/* Main */
+.Main {
+    max-height: 100vh;
+}
